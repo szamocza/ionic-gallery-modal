@@ -1,3 +1,7 @@
+# This project is no longer being maintained!
+
+If you need a nice, professional library, please use [photoswipe.js](https://github.com/dimsemenov/photoswipe)
+
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/ionic-gallery-modal)
 [![NPM Version](http://img.shields.io/npm/v/ionic-gallery-modal.svg?style=flat)](https://www.npmjs.org/package/ionic-gallery-modal)
 [![NPM Downloads](https://img.shields.io/npm/dm/ionic-gallery-modal.svg?style=flat)](https://www.npmjs.org/package/ionic-gallery-modal)
@@ -5,7 +9,7 @@
 # Ionic Gallery Modal
 
 It consists of a modal that will help you make gallery preview modal.
-Last tested with Ionic 3.6.0
+Last tested with Ionic 3.13.0
 
 ## Demo
 
